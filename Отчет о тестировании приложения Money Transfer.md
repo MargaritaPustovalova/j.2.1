@@ -17,12 +17,19 @@
 ## Обнаружение дефектов
 
 В результате тестирования выявлены следующий дефект:
-При запуске приложение Money Transfer выдает неверный результат: https://github.com/MargaritaPustovalova/j.2.1/blob/main/Main.java
-Если переменную int в приложении заменить на long, то приложение выдает верный результат https://github.com/MargaritaPustovalova/j.2.1/blob/main/Main1.java
+
+При запуске приложение Money Transfer выдает неверный результат: 
+
+https://github.com/MargaritaPustovalova/j.2.1/blob/main/Main.java
+
+Если переменную int в приложении заменить на long, то приложение выдает верный результат 
+
+https://github.com/MargaritaPustovalova/j.2.1/blob/main/Main1.java
 
 ## Результы тестирования 
 
 Приложение работает неверно при переменной int
+
 Чтобы приложение работало корректно, переменную int необходимо заменить на long
 
 ## Тестирование производилось в следующем окружении:
